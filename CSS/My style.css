@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(148, 143, 143, 0.792);
+}
+h1{font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h2{font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h3{font-size: medium; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p{font-size: smaller; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+li{font-weight: 200; font-size: smaller; font-family: Verdana, Geneva, Tahoma, sans-serif;}
